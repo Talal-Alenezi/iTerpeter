@@ -1,0 +1,23 @@
+{
+  "name": "iterpeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talal-Alenezi/iTerpeter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talal-Alenezi/iTerpeter/issues"
+  },
+  "homepage": "https://github.com/Talal-Alenezi/iTerpeter#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
