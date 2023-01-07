@@ -9,7 +9,7 @@ module.exports = {
       grey: '#808080',
     },
     screens: {
-      'xs': {'min': '300px', 'max': '900px'},},
+      'xs': {'min': '100px', 'max': '1000px'},},
 
     extend: {},
   },
